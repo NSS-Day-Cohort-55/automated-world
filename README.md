@@ -64,7 +64,7 @@ touch scripts/morocco/celebrities/CelebritiesDataProvider.js
 
 ## User Experience
 
-1. Your team must decide on a consistent experience across all pages. Fonts, color scheme, layout, and structure.
+1. A [style guide](AutoWorld-Styles.pdf) has been provided. Using the style guide, your team must decide on a consistent experience across all pages. Fonts/sizes, color scheme, layout, and structure.
 ![Hello World Layout](./hello-world-wireframe.png)
 
 ## Stretch Goal
