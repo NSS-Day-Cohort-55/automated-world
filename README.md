@@ -4,7 +4,7 @@
 
 Your team is going to build a travel brochure site using javascript automation and include objects, arrays, components, modules, CSS selectors, Flexbox, semantic HTML, and data. Each person should pick a country that you have always wanted to visit and build a page with the following components.
 
-1. Navigation with links to each page. There should be a visual clue for the active page.
+1. Navigation with links to each page. There should be a visual clue for the active page and a visual for the hover state.
 1. A header that includes an appealing image. It could be a city or landmark in that country.
 1. The header should also include a headline or sentence promoting travel to the country.
 1. A list of cities that you would like to visit in the country. Each city should include the population, short description and a link to an external website for more information. The link should open a new browser tab.
