@@ -8,7 +8,7 @@ Your team is going to build a travel brochure site using javascript automation a
 1. A header that includes an appealing image. It could be a city or landmark in that country.
 1. The header should also include a headline or sentence promoting travel to the country.
 1. A list of cities that you would like to visit in the country. Each city should include the population, short description and a link to an external website for more information. The link should open a new browser tab.
-1. A list of landmarks that you would like to visit in the country. Each landmark should have a year created, short description, and a link to an external website for more information. The link should open a new browser tab.
+1. A list of landmarks that you would like to visit in the country prefaced with 'The top x places to visit'. The 'x' should come from the number of items in the data. Each landmark should have a year created, short description, and a link to an external website for more information. The link should open a new browser tab.
 1. A list of famous citizens. For each citizen include their occupation, a short description, and a link to an external website for more information. The link should open a new browser tab.
 1. A footer with copyright information and your team information.
 1. Use Canva to create a logo for your site. (Timebox this task and spend no more than 15 minutes.)
